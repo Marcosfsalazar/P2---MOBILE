@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761911989103",
+    "firebase_url": "https://p2-web.firebaseio.com",
+    "project_id": "p2-web",
+    "storage_bucket": "p2-web.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761911989103:android:bfd2bea67255972c478e9a",
+        "android_client_info": {
+          "package_name": "com.example.p2_moveis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761911989103-6km78bi7de2rvecom8ofc3k3kviguhd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.p2_moveis",
+            "certificate_hash": "a1531a2caa9feab99f07fa276fc394d2507a2e9d"
+          }
+        },
+        {
+          "client_id": "761911989103-8up1tl9s4t22etpdm0hgsbg7rh7eflq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMptvv_lXywvqVQduzuXwP1Z9146uWKZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761911989103-8up1tl9s4t22etpdm0hgsbg7rh7eflq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
